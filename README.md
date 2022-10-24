@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&width=500%&height=300&section=header&text=EunSoo_J&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&width=500%&height=280&section=header&text=EunSoo_J&fontSize=90)
   
 ## 
 <br><br><br>
