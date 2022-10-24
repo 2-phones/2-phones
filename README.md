@@ -3,11 +3,6 @@
   
 ## 
 <br><br><br>
-
-[![2-phones GitHub stats](https://github-readme-stats.vercel.app/api?username=2-phones&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=party3205)](https://velog.io/@party3205)
-
 ## Stack
 
 ### Language
