@@ -10,7 +10,13 @@
 ## Stack
 
 ### Language
-`JavaScript` , `TypeScript` <br>
+<p>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="69" height="69" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="69" height="69" /></div><div style="display: flex; align-items: flex-start;">
+</p>
 
 ### Framework & Library
- `React` ,`Redux`,`Mysql`, `Nestjs` , `expressjs`
+<p>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="69" height="69" />
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="69" height="69" />
+</p>
