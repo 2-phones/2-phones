@@ -1,5 +1,6 @@
-<img src="https://media.tenor.com/L5g2mZgoLykAAAAd/office-of-course.gif" width="100%" />
-  
+<center>
+<img src="https://media.tenor.com/L5g2mZgoLykAAAAd/office-of-course.gif" />
+<center/> 
 ## 
 <br><br><br>
 
