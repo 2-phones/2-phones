@@ -1,6 +1,6 @@
 <center>
 <img src="https://media.tenor.com/L5g2mZgoLykAAAAd/office-of-course.gif" />
-<center/> 
+</center> 
 ## 
 <br><br><br>
 
