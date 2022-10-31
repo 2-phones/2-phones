@@ -1,4 +1,4 @@
-[<div class="tenor-gif-embed" data-postid="17046016" data-share-method="host" data-aspect-ratio="1.56098" data-width="100%"><a href="https://tenor.com/view/office-of-course-work-scroll-coffee-gif-17046016">Office Of Course GIF</a>from <a href="https://tenor.com/search/office-gifs">Office GIFs</a></div>
+<div class="tenor-gif-embed" data-postid="17046016" data-share-method="host" data-aspect-ratio="1.56098" data-width="100%"><a href="https://tenor.com/view/office-of-course-work-scroll-coffee-gif-17046016">Office Of Course GIF</a>from <a href="https://tenor.com/search/office-gifs">Office GIFs</a></div>
   
 ## 
 <br><br><br>
